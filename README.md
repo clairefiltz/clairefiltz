@@ -1,7 +1,11 @@
 ### Hi there 👋
 
--  :jp: 
-- 🔭 I’m currently working on ...
+
+-  :books: :speech_balloon: I am a linguist by training
+-  I love languages :fr: :de: :us: :jp: :kr:
+- 🔭 I am currently trying to learn more about NLP and everything related to language and programming 
+
+
 <!--
 **clairefiltz/clairefiltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
