@@ -2,7 +2,7 @@
 
 
 -  :books: :speech_balloon: I am a linguist by training and currently working as a Freelance Linguist
--  I love languages :fr: :de: :us: :jp: :kr: 🇮🇳
+-  I love languages :fr: :de: :us: :jp: :kr: 🇮🇳 🇩🇰
 - 🔭 I am trying to learn more about NLP and everything related to language and programming 
 
 
